@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Anh Thu! 👩‍💻
 
-<!--
-**anhthu-ngpham/anhthu-ngpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about backend development. I love building innovative solutions and collaborating with others.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** .Net, C++, C, TypeScript
+- **Tools:** Docker, Kubernetes, Azure, Entity Framework
+
+## Connect
+
+- **FaceBook:** https://www.facebook.com/profile.php?id=100068114011791
+
+Let's create something amazing together! 🌟
